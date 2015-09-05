@@ -1,7 +1,11 @@
-.DS_Store
-Thumbs.db
-
 # IDE
 .idea
 *.sublime-project
 *.sublime-workspace
+
+# OS
+._*
+Thumbs.db
+.DS_Store
+.Trashes
+.Spotlight-V100
