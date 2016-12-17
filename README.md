@@ -1,6 +1,6 @@
 # dotfiles
 
-My OSX dotfiles
+My macOS dotfiles
 
 ## Overview
 
@@ -9,7 +9,9 @@ My OSX dotfiles
 | `.gitignore` | The ignore file that I use. |
 | `.editorconfig` | Unify code style. |
 
-## Config macOS
+## Config macOS (Sierra)
+
+Basic checklist to set up a new Mac's development environment.
 
 ### System Preferences
 
