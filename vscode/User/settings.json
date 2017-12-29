@@ -1,0 +1,23 @@
+{
+  "editor.fontFamily": "Source code Pro, monospace",
+  "editor.fontSize": 14,
+  "editor.roundedSelection": false,
+  "editor.renderWhitespace": "all",
+  "editor.renderIndentGuides": false,
+  "editor.renderLineHighlight": "line",
+  "editor.matchBrackets": false,
+  "editor.minimap.enabled": false,
+  "files.eol": "\n",
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.colorCustomizations": {
+    "statusBar.background" : "#1a1a1a",
+    "statusBar.noFolderBackground" : "#212121",
+    "statusBar.debuggingBackground": "#263238"
+  },
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.showIcons": false,
+  "window.openFilesInNewWindow": "off",
+  "window.openFoldersInNewWindow": "off"
+}

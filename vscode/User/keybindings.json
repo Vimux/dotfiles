@@ -1,0 +1,10 @@
+[
+  { "key": "cmd+e",           "command": "workbench.action.quickOpenPreviousEditor" },
+  { "key": "cmd+g",           "command": "workbench.action.gotoLine" },
+  { "key": "cmd+y",           "command": "editor.action.deleteLines",
+                                 "when": "editorTextFocus && !editorReadonly" },
+  { "key": "ctrl+g",          "command": "editor.action.addSelectionToNextFindMatch",
+                                 "when": "editorFocus" },
+  { "key": "alt+down",        "command": "editor.action.insertCursorBelow",
+                                 "when": "editorTextFocus" },
+]
