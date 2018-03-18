@@ -4,8 +4,10 @@ My macOS dotfiles
 
 ## Overview
 
-| File | Description |
+| Name | Description |
 | --- | --- |
+| `vscode` | Visual Studio Code settings |
 | `.gitignore` | The ignore file that I use |
 | `.editorconfig` | Unify code style |
-| `mac.sh` | Customize macOS defaults settings |
+| `.stylelintrc` | Stylelint settings that helps me write consistent stylesheets. |
+| `macos.sh` | Customize macOS defaults settings |
