@@ -1,3 +1,7 @@
+# Node/npm
+node_modules/
+npm-debug.log
+
 # IDE
 .idea
 *.sublime-project
