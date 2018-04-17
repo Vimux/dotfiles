@@ -1,9 +1,11 @@
 # Visual Studio Code settings
 
-## Synchronization settings
+## Synchronization
 
+```shell
 rm -rf ~/Library/Application\ Support/Code/User
 ln -s ~/dotfiles/vscode/User ~/Library/Application\ Support/Code/User
+```
 
 ## Plugins
 
