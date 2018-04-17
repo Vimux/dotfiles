@@ -1,0 +1,9 @@
+{
+  "html": {
+    "snippets": {
+      "viewport": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "description": "<meta name=\"description\" content=\"${1}\">",
+      "favicon": "<link rel=\"shortcut icon\" href=\"${1}\">"
+    }
+  }
+}
