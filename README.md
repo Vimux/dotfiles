@@ -7,6 +7,7 @@ My macOS dotfiles
 | Name | Description |
 | --- | --- |
 | `vscode` | Visual Studio Code settings |
+| `.gitconfig` | Git configuration file |
 | `.gitignore` | The ignore file that I use |
 | `.editorconfig` | Unify code style |
 | `.eslintrc` | ESLint settings for linting JS code |
