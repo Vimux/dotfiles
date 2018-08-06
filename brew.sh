@@ -45,6 +45,7 @@ brew install screen
 brew install git
 brew install git-lfs
 brew install node
+brew install webp
 brew install imagemagick --with-webp
 brew install p7zip
 brew install pigz
