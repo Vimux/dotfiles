@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlight",
+		"Emmet",
+		"ESLint",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"MarkdownEditing",
+		"Minifier",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy"
+		"SublimeLinter-stylelint",
+	]
+}
