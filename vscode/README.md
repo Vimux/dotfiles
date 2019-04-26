@@ -9,8 +9,9 @@ ln -s ~/dotfiles/vscode/User ~/Library/Application\ Support/Code/User
 
 ## Plugins
 
-* [CSScomb](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)
+* [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
