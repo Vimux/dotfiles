@@ -6,6 +6,7 @@ My macOS dotfiles
 
 | Name | Description |
 | --- | --- |
+| `sublime` | Sublime Text 3 settings |
 | `vscode` | Visual Studio Code settings |
 | `.gitconfig` | Git configuration file |
 | `.gitignore` | The ignore file that I use |
