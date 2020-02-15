@@ -119,6 +119,9 @@ defaults write NSGlobalDomain com.apple.swipescrolldirection -bool false
 # Date & Time                                                                 #
 ###############################################################################
 
+# Show date and time in the menu bar
+defaults write com.apple.menuextra.clock "DateFormat" "EEE MMM d H.mm"
+
 # Set the timezone; see `sudo systemsetup -listtimezones` for other values
 sudo systemsetup -settimezone "Europe/Moscow" > /dev/null
 
