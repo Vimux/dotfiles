@@ -44,13 +44,16 @@ defaults write com.apple.dock mineffect -string "scale"
 defaults write com.apple.dock minimize-to-application -bool true
 
 # Dock orientation: "left", "bottom", "right"
-defaults write com.apple.dock "orientation" -string "bottom"
+defaults write com.apple.dock "orientation" -string "left"
 
 # Show indicator lights for open applications in the Dock
 defaults write com.apple.dock show-process-indicators -bool true
 
 # Don’t animate opening applications from the Dock
 defaults write com.apple.dock launchanim -bool false
+
+# Don’t show recent applications in Dock
+defaults write com.apple.dock show-recents -bool false
 
 # Disable Hot corners
 # Possible values:
