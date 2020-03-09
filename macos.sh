@@ -266,6 +266,13 @@ defaults write com.apple.Safari InstallExtensionUpdatesAutomatically -bool true
 defaults write com.apple.terminal StringEncodings -array 4
 
 ###############################################################################
+# iTerm2                                                                      #
+###############################################################################
+
+# Don’t display the annoying prompt when quitting iTerm
+defaults write com.googlecode.iterm2 PromptOnQuit -bool false
+
+###############################################################################
 # Time Machine                                                                #
 ###############################################################################
 
