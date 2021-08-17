@@ -15,4 +15,4 @@ ln -s ~/dotfiles/vscode/User ~/Library/Application\ Support/Code/User
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-* [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+* [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
